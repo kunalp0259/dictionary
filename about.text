@@ -1,0 +1,2 @@
+in this code i will take the no of words entered in a dictionary and store in a trie data structure 
+and then after that usin suggestions function i will find out the relevant words according to this.
